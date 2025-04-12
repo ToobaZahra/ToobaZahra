@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" align="right"/>
 <span>
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/>
-</span>I’m a Bioinformatics graduate who loves merging biology with code — from gene analysis
+</span>I’m a Bioinformatics graduate who loves merging biology with code —  from gene analysis tools to web apps.
 <br>
 
 <span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span> I build projects using Python, Flask, MySQL, HTML/CSS, and a sprinkle of JavaScript.  
