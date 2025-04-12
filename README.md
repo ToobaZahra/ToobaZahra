@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="60"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" align="right"/>
 I’m a Bioinformatics graduate who loves merging biology with code — from gene analysis tools to web apps.<br>💻 I build projects using Python, Flask, MySQL, HTML/CSS, and a sprinkle of JavaScript.<br>🧪 I’ve worked on tools like ExpressionProfiler, alignment algorithms, and data visualization scripts.<br>🎨 I’m also a graphic designer — designing posters, social media content, and more (yep, check Dribbble 😉).<br>🧘‍♀️ When I'm not coding, you’ll find me journaling, reading books on self-growth, or creating cool designs!<br><br>
 
 
