@@ -12,7 +12,7 @@
 <br>
 
 ## <h2> Let’s connect (◡‿◡) </h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tooba-zahra-ab2015246/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tooba-zahra-ab2015246/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/Tobaz)
 
 # <h2> Tech Stack 💻 </h2>
