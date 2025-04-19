@@ -34,6 +34,3 @@
 [![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?logo=codepen&logoColor=white)](https://codepen.io/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-
-# <h2> My GitHub Stats 😎</h2>
-![](https://github-readme-stats.vercel.app/api?username=ToobaZahra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
