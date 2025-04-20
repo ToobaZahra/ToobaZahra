@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Tooba!</h1>
+
 <h2>  About me</h2>
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" align="right"/>
 <span>
