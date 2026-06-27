@@ -7,12 +7,12 @@
 
 ### About Me
 
-<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span> MS Bioinformatics student at COMSATS University Islamabad (graduating Feb 2027)<br>
-<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span> I build reproducible NGS pipelines using **Nextflow + Docker**<br>
-<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span> Experienced in **RNA-seq**, **Metagenomics**, and **Differential Gene Expression** analysis<br>
-<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span> Currently expanding into **ML on genomic data**<br>
-<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span> Available for **freelance bioinformatics projects**<br>
-<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span> Also a graphic designer — check my [Dribbble](https://dribbble.com/Tobaz) 😉
+<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span>&nbsp; I don't stop until it's done — deadlines don't scare me, they motivate me 💪<br>
+<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span>&nbsp; I turn raw sequencing data into biological insights 🧬<br>
+<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span>&nbsp; Building reproducible NGS pipelines with Nextflow + Docker — because science should be repeatable 🔬<br>
+<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span>&nbsp; Quick learner — if I don't know it today, I'll build it tomorrow 🚀<br>
+<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span>&nbsp; Open to freelance bioinformatics projects 💼<br>
+<span><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30"/></span>&nbsp; When I'm not coding, I'm designing, journaling, or planning my next project ✨
 <br>
 
 ---
